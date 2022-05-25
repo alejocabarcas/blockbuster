@@ -1,1 +1,109 @@
-<mxfile host="app.diagrams.net" modified="2022-05-25T22:48:51.955Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" version="18.1.2" etag="9Z71LFXFprzS_xHgzgXA" type="github"><diagram id="oE-0gziZh2Std5VAyeCk">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-05-25T23:13:36.002Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36" etag="W_xXlfT8OKskt7WlZIYD" version="18.1.2" type="github">
+  <diagram id="oE-0gziZh2Std5VAyeCk" name="Page-1">
+    <mxGraphModel dx="1102" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="240" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="240" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="80" width="240" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="230" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="270" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-11" value="&lt;h1&gt;Login&lt;/h1&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="40" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-23" value="Search" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.forms.searchBox;mainText=;strokeColor2=#008cff;fontSize=17;align=left;spacingLeft=3;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="450" y="130" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-24" value="" style="sketch=0;aspect=fixed;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;fillColor=#000000;shape=mxgraph.mscae.enterprise.filter" vertex="1" parent="1">
+          <mxGeometry x="414" y="130" width="22.22" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-27" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/core-ui-outlined/32/outlined_log_in-128.png" vertex="1" parent="1">
+          <mxGeometry x="213" y="310" width="54" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn3.iconfinder.com/data/icons/strokeline/128/revisi_02-128.png" vertex="1" parent="1">
+          <mxGeometry x="198" y="120" width="84" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-2/24/bxs-movie-128.png" vertex="1" parent="1">
+          <mxGeometry x="736" y="106" width="128" height="128" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-30" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="702.5" y="247" width="195" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-31" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="164" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-32" value="Normal" style="whiteSpace=wrap;html=1;shadow=0;dashed=0;fontSize=10;align=left;fillColor=#1A1A1A;strokeColor=#1A1A1A;fontColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="400" y="80" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-33" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="210" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-34" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="260" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="310" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="364" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-37" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="410" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-38" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-1/24/bxs-camera-movie-128.png" vertex="1" parent="1">
+          <mxGeometry x="414" y="166" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-39" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-1/24/bxs-camera-movie-128.png" vertex="1" parent="1">
+          <mxGeometry x="414" y="213" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-40" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-1/24/bxs-camera-movie-128.png" vertex="1" parent="1">
+          <mxGeometry x="414" y="263" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-41" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-1/24/bxs-camera-movie-128.png" vertex="1" parent="1">
+          <mxGeometry x="414" y="313" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-42" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-1/24/bxs-camera-movie-128.png" vertex="1" parent="1">
+          <mxGeometry x="414" y="367" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-43" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/boxicons-solid-vol-1/24/bxs-camera-movie-128.png" vertex="1" parent="1">
+          <mxGeometry x="414" y="413" width="34" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-46" value="forgot my password?" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="383" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-47" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/for-your-interface-free-samples/128/Cart-128.png" vertex="1" parent="1">
+          <mxGeometry x="600" y="125" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-50" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000408;shadow=0;dashed=0;shape=mxgraph.ios7.icons.delete;" vertex="1" parent="1">
+          <mxGeometry x="736" y="380" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-51" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#000103;shadow=0;dashed=0;shape=mxgraph.ios7.icons.add;" vertex="1" parent="1">
+          <mxGeometry x="834" y="380" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-54" value="&lt;h1 style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Index&lt;/h1&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="20" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-55" value="&lt;h1 style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(248, 249, 250); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Movie&lt;/h1&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="20" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-57" value="PRICE" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="770" y="415" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="l07v2l1jNWsfSQwHFGzW-58" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="80" width="240" height="380" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
